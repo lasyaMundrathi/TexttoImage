@@ -5,6 +5,8 @@
 Turn simple ideas into beautiful images with the power of **Gemini Pro** and **Hugging Face!** 🚀 This project blends cutting-edge AI technologies to transform text descriptions into visually compelling imagery. 🌄✨
 
 ---
+![text_to_image](https://github.com/user-attachments/assets/9fcff469-9c18-4a64-9789-7dd8ff48c2ef)
+
 ### 💡 Why You'll Love This Project 💡
 - 🔥 AI-Powered Creativity: Generate descriptive scripts with Gemini Pro and breathtaking visuals with Stable Diffusion.
 - 🖌️ Easy-to-Use Interface: A streamlined Streamlit app that anyone can navigate!
