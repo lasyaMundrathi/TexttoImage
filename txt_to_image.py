@@ -1,5 +1,4 @@
 import os
-from dotenv import load_dotenv
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
@@ -7,7 +6,6 @@ from langchain.chains import LLMChain
 import requests
 
 #Load environment variables
-load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 HUGGING_FACE_API_TOKEN = os.getenv("HUGGING_FACE_API_TOKEN")
 
